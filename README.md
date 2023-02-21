@@ -6,6 +6,7 @@ This project explores COVID-19 data in Nigeria, utilizing a variety of SQL skill
 
 # Technologies
 SQL
+
 GitHub
 
 # Usage
